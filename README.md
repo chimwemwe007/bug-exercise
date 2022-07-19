@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name: Bug-Fix exercise.
 
 > Description the project.
+> A siple exercise with git-bisect on how to locate where a bug was made and then ways in which to fix the bug.
 
 
 ## Built With
